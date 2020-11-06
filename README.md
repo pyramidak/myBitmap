@@ -1,6 +1,6 @@
 # myBitmap
 
-Working with images, conversions of Bitmap, Cursor or Icon, wpf included. This class is pure gold.
+Working with images, conversions of Bitmap, Cursor or Icon, WPF included. This class is pure gold.
 
   Bitmap:
     BitmapSource to Drawing.Bitmap,
